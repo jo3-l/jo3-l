@@ -1,32 +1,37 @@
 # Hello there 👋
 
-> A fan of clean, performant, and well-documented code.
+> A fan of maintainable, performant, and well-documented code.
 
 ## Current projects
 
-- [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): A collection of custom commands for the YAGPDB Discord Bot.
-- [`cp-practice`](https://github.com/jo3-l/cp-practice): A dump of my solutions to various collections of programming problems; in particular, you can find a number of [CCC](https://cemc.uwaterloo.ca/contests/computing.html) solutions and problems from [binarysearch.com](https://binarysearch.com) there.
-- [`obscenity`](https://github.com/jo3-l/obscenity): A stand-alone package for detecting and handling profanity, able to detect many variations that other packages are unable to.
-- **YAGPDB-related things**: I occasionally contribute to [`YAGPDB`](https://github.com/jonas747/yagpdb) and related projects; see my [fork of the main repository](https://github.com/jo3-l/yagpdb) and the [templating library](https://github.com/jo3-l/template).
+Currently, I'm working on:
 
-_This is not meant to be an exhaustive list by any means; I've worked on a myriad of other projects (quite a few of which I've abandoned) which you can see by browsing through my repositories._
+- [`cp-practice`](https://github.com/jo3-l/cp-practice): A collection of my solutions to various collections of programming problems, written in C++ 17. Also hosts a couple of editorials to [Canadian Computing Competition](https://cemc.uwaterloo.ca/contests/ccc-cco.html) problems.
+- **YAGPDB-related**: Occasionally, I contribute to the [`YAGPDB`](https://github.com/jonas747/yagpdb) Discord bot and related projects; see my [fork of the main repository](https://github.com/jo3-l/yagpdb) and the [templating library](https://github.com/jo3-l/template).
+
+## Past projects
+
+In the past, I've worked on:
+
+- [`liftoff`](https://github.com/jo3-l/liftoff): Tree-walking interpreter for a toy programming language in Python.
+- [`obscenity`](https://github.com/jo3-l/obscenity): Robust profanity detection featuring extensive anti-bypass (zalgo, confusable Unicode characters, etc.) measures for Node.js, written in TypeScript.
+- [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): An extensive collection of custom commands for the YAGPDB Discord Bot accessible via a [Docusaurus-powered website](https://yagpdb-cc.github.io).
+- [`spectre`](https://github.com/jo3-l/spectre): General purpose Discord bot centered around a leveling system featuring image generation with a myriad of other commands, using [PostgreSQL](https://www.postgresql.org/), [Discord.js](https://discord.js.org/#/), and TypeScript.
 
 ## About me
 
 Hey there! I'm Joe L., a high school student and enthusiast programmer from Canada. I usually go by some variation of "Joe" or "jo3-l" on the Internet.
 
-You probably know me in real life (in which case, hello there 👀) or from [YAGPDB](https://yagpdb.xyz), where I am a support member and documentation author. I mainly work with TypeScript, but I'm also reasonably proficient with Golang, Python, and Java. Currently, I'm focusing on improving my problem-solving skills, learning data structures and algorithms, and working on my profanity toolkit library (mentioned in my [project list](#current-projects)).
-
-Outside of programming, I also enjoy hiking, playing tennis, doing math, and reading. If I'm not on the computer, there's a good chance that I'm doing one of those things.
+You probably know me from real life (in which case, hello there 👀) or from [YAGPDB](https://yagpdb.xyz), where I'm a bot admin and documentation author. I primarily work with TypeScript on backend projects, but I'm also reasonably proficient with Go, Python, Java, and C++. Outside of tech, my primary interests are maths, tennis, and hiking, approximately in that order.
 
 ## Tech I use
 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.58.3&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2020.3.2&style=for-the-badge&color=000000&logo=intellij-idea)
-![Github](https://img.shields.io/static/v1?label=GitHub&message=jo3-l&color=181717&style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&message=jo3-l&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 
-## Some stats!
+## Some stats
 
 Since everyone likes to see some numbers:
 
@@ -46,8 +51,7 @@ Since everyone likes to see some numbers:
 ---
 
 <div align="center">
-	<i>
-    If you'd like to chat, send a DM over to <code>jo3-l#2997</code> on Discord.<br>
-    Note that I have DMs set to only friends; so you will need to send a friend request first.
-  </i>
+  If you need to contact me and have me friended on Discord, send me a direct message; absent unexpected situations, I respond quickest there.
+  
+  Otherwise, your best bet is likely email: `jo3 [dot] l [dot] dev [at] outlook [dot] com.`
 </div>
