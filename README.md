@@ -2,31 +2,36 @@
 
 > A fan of maintainable, performant, and well-documented code.
 
+## About me
+
+Hey there! I'm Joe L., a high school student and enthusiast programmer from Canada. I usually go by "jo3-l" or some variation thereof on the web.
+
+You probably know me from real life (in which case, hello there 👀) or from the [YAGPDB project](https://yagpdb.xyz), where I'm a frequent contributor and documentation author.
+
+These days, I primarily work with Rust and Go on backend projects, but in the past, I've also dabbled in Python, TypeScript, Java, and C++, among others.
+
+Occasionally, I blog about my thoughts on [my website](https://jo3-l.github.io); check out my latest post on [proving the sum of exponents law](https://jo3-l.github.io/posts/proving-the-sum-of-exponents-law/).
+
 ## Current projects
 
-Currently, I'm working on:
-
-- [`cp-practice`](https://github.com/jo3-l/cp-practice): A collection of my solutions to various collections of programming problems, written in C++ 17. Also hosts a couple of editorials to [Canadian Computing Competition](https://cemc.uwaterloo.ca/contests/ccc-cco.html) problems.
-- **YAGPDB-related**: Occasionally, I contribute to the [`YAGPDB`](https://github.com/jonas747/yagpdb) Discord bot and related projects; see my [fork of the main repository](https://github.com/jo3-l/yagpdb) and the [templating library](https://github.com/jo3-l/template).
+These days, my primary interest is in compiler theory; I am particularly interested in program optimization and type systems. My latest project is [yc](https://github.com/jo3-l/yc/), which aims to improve developer experience for those working on [YAGPDB](https://yagpdb.xyz) custom commands by providing editor support on par with mainstream languages.
 
 ## Past projects
 
 In the past, I've worked on:
 
-- [`liftoff`](https://github.com/jo3-l/liftoff): Tree-walking interpreter for a toy programming language in Python.
-- [`obscenity`](https://github.com/jo3-l/obscenity): Robust profanity detection featuring extensive anti-bypass (zalgo, confusable Unicode characters, etc.) measures for Node.js, written in TypeScript.
+- [`vsHacks`](https://vshacks.tech): A hackathon organized by my programming club and others across the Greater Vancouver area. Notably, I contributed extensively to [the hackathon website](https://github.com/vsHacks/vshacks.github.io) and helped run workshops during the event.
+- [`cp-practice`](https://github.com/jo3-l/cp-practice): Solutions to various collections of programming problems, written in C++ and Java. See also my accounts on the [DMOJ](https://dmoj.ca/user/jo3_l) and [binarysearch](https://binarysearch.com/@/jo3-l).
+- [`liftoff`](https://github.com/jo3-l/liftoff): A tree-walking interpreter for a toy programming language, written in Python.
+- [`obscenity`](https://github.com/jo3-l/obscenity): A robust profanity detection featuring extensive anti-bypass measures such as anti-zalgo and anti-lookalike Unicode characters for Node.js, written in TypeScript.
 - [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): An extensive collection of custom commands for the YAGPDB Discord Bot accessible via a [Docusaurus-powered website](https://yagpdb-cc.github.io).
-- [`spectre`](https://github.com/jo3-l/spectre): General purpose Discord bot centered around a leveling system featuring image generation with a myriad of other commands, using [PostgreSQL](https://www.postgresql.org/), [Discord.js](https://discord.js.org/#/), and TypeScript.
+- [`spectre`](https://github.com/jo3-l/spectre): General purpose Discord bot centered around a leveling system featuring dynamic image generation with a myriad of other commands, using [PostgreSQL](https://www.postgresql.org/), [Discord.js](https://discord.js.org/#/), and TypeScript.
 
-## About me
-
-Hey there! I'm Joe L., a high school student and enthusiast programmer from Canada. I usually go by some variation of "Joe" or "jo3-l" on the Internet.
-
-You probably know me from real life (in which case, hello there 👀) or from [YAGPDB](https://yagpdb.xyz), where I'm a bot admin and documentation author. I primarily work with TypeScript on backend projects, but I'm also reasonably proficient with Go, Python, Java, and C++. Outside of tech, my primary interests are maths, tennis, and hiking, approximately in that order.
+For a more comprehensive list, see my repositories.
 
 ## Tech I use
 
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.58.3&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.70.2&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2020.3.2&style=for-the-badge&color=000000&logo=intellij-idea)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=jo3-l&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
