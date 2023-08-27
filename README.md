@@ -1,44 +1,33 @@
-# Hello there 👋
+# About me
 
-> A fan of maintainable, performant, and well-documented code.
+Hey there! I'm Joe L., a high school student and enthusiast programmer from Canada. I usually go by jo3-l or some variation thereof on the web.
 
-## About me
+You probably know me from real life (in which case, hello there 👀) or from the [YAGPDB project](https://yagpdb.xyz), where I'm a contributor and documentation author.
 
-Hey there! I'm Joe L., a high school student and enthusiast programmer from Canada. I usually go by "jo3-l" or some variation thereof on the web.
+Nowadays, I primarily work with Rust and Go on backend projects, but in the past, I've also dabbled in Python, TypeScript, Java, and C++, among others.
 
-You probably know me from real life (in which case, hello there 👀) or from the [YAGPDB project](https://yagpdb.xyz), where I'm a frequent contributor and documentation author.
-
-These days, I primarily work with Rust and Go on backend projects, but in the past, I've also dabbled in Python, TypeScript, Java, and C++, among others.
-
-Occasionally, I blog about my thoughts on [my website](https://jo3-l.github.io); check out my latest post on [proving the sum of exponents law](https://jo3-l.github.io/posts/proving-the-sum-of-exponents-law/).
+Occasionally, I [blog on my website](https://jo3-l.github.io); check out my latest post on [the relationship between pressure and chemical equilibrium](https://jo3-l.github.io/posts/pressure-and-equilibrium/).
 
 ## Current projects
 
-These days, my primary interest is in compiler theory; I am particularly interested in program optimization and type systems. My latest project is [yc](https://github.com/jo3-l/yc/), which aims to improve developer experience for those working on [YAGPDB](https://yagpdb.xyz) custom commands by providing editor support on par with mainstream languages.
+Sadly, various real-life commitments mean I no longer have as much time to code as I would like. That said, my most recent project was [markpdf](https://github.com/jo3-l/markpdf), a command-line utility to edit PDF bookmarks using an intuitive indentation-based text format, and of course I sporadically [contribute bugfixes and small features to the YAGPDB codebase](https://github.com/botlabs-gg/yagpdb/commits/master?author=jo3-l).
 
 ## Past projects
 
 In the past, I've worked on:
 
-- [`vsHacks`](https://vshacks.tech): A hackathon organized by my programming club and others across the Greater Vancouver area. Notably, I contributed extensively to [the hackathon website](https://github.com/vsHacks/vshacks.github.io) and helped run workshops during the event.
-- [`cp-practice`](https://github.com/jo3-l/cp-practice): Solutions to various collections of programming problems, written in C++ and Java. See also my accounts on the [DMOJ](https://dmoj.ca/user/jo3_l) and [binarysearch](https://binarysearch.com/@/jo3-l).
-- [`liftoff`](https://github.com/jo3-l/liftoff): A tree-walking interpreter for a toy programming language, written in Python.
-- [`obscenity`](https://github.com/jo3-l/obscenity): A robust profanity detection featuring extensive anti-bypass measures such as anti-zalgo and anti-lookalike Unicode characters for Node.js, written in TypeScript.
-- [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): An extensive collection of custom commands for the YAGPDB Discord Bot accessible via a [Docusaurus-powered website](https://yagpdb-cc.github.io).
-- [`spectre`](https://github.com/jo3-l/spectre): General purpose Discord bot centered around a leveling system featuring dynamic image generation with a myriad of other commands, using [PostgreSQL](https://www.postgresql.org/), [Discord.js](https://discord.js.org/#/), and TypeScript.
+- [**vsHacks**](https://vshacks.tech): A hackathon organized by my programming club and others across the Greater Vancouver area. Notably, I contributed extensively to [the hackathon website](https://github.com/vsHacks/vshacks.github.io) and helped run workshops during the event.
+- [**obscenity**](https://github.com/jo3-l/obscenity): A robust profanity detection library featuring extensive anti-bypass measures such as anti-zalgo and anti-lookalike Unicode characters for Node.js, written in TypeScript.
+- [**liftoff**](https://github.com/jo3-l/liftoff): A parser and interpreter for a toy programming language, written in Python.
+- [**spectre**](https://github.com/jo3-l/spectre): General purpose Discord bot centered around a leveling system featuring dynamic image generation with a myriad of other commands, using [PostgreSQL](https://www.postgresql.org/), [Discord.js](https://discord.js.org/#/), and TypeScript.
+- [**cp-practice**](https://github.com/jo3-l/cp-practice): Solutions to various collections of programming problems, written in C++ and Java. See also [my account on the DMOJ](https://dmoj.ca/user/jo3_l).
+- [**yagpdb-cc**](https://github.com/yagpdb-cc/yagpdb-cc): An extensive collection of custom commands for YAGPDB accessible via a [Docusaurus-powered website](https://yagpdb-cc.github.io).
 
-For a more comprehensive list, see my repositories.
-
-## Tech I use
-
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.70.2&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2020.3.2&style=for-the-badge&color=000000&logo=intellij-idea)
-![GitHub](https://img.shields.io/static/v1?label=GitHub&message=jo3-l&color=181717&style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
+For a complete list, see my repositories.
 
 ## Some stats
 
-Since everyone likes to see some numbers:
+Since everyone numbers:
 
 <table>
   <tr>
@@ -51,12 +40,14 @@ Since everyone likes to see some numbers:
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
+(Statistics courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).)
 
 ---
 
 <div align="center">
-  If you need to contact me and have me friended on Discord, send me a direct message; absent unexpected situations, I respond quickest there.
-  
-  Otherwise, your best bet is likely email: `jo3 [dot] l [dot] dev [at] outlook [dot] com.`
+
+If you would like to contact me, your best bet is likely Discord, where my handle is `jo3_l`.
+
+Alternatively, you can also try email: `jo3 [dot] l [dot] dev [at] outlook.com`.
+
 </div>
