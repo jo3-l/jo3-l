@@ -1,16 +1,16 @@
 # About me
 
-Hey there! I'm Joe L., a high school student and enthusiast programmer from Canada. I usually go by jo3-l or some variation thereof on the web.
+Hey there! I'm Joe L., a high school student and computer science enthusiast from Vancouver, Canada.
 
 You probably know me from real life (in which case, hello there 👀) or from the [YAGPDB project](https://yagpdb.xyz), where I'm a contributor and documentation author.
 
-Nowadays, I primarily work with Rust and Go on backend projects, but in the past, I've also dabbled in Python, TypeScript, Java, and C++, among others.
+Nowadays, I primarily work with Rust and Go on backend projects, but in the past I've also dabbled in Python, TypeScript, Java, and C++, among others.
 
 Occasionally, I [blog on my website](https://jo3-l.github.io); check out my latest post on [the relationship between pressure and chemical equilibrium](https://jo3-l.github.io/posts/pressure-and-equilibrium/).
 
 ## Current projects
 
-Sadly, various real-life commitments mean I no longer have as much time to code as I would like. That said, my most recent project was [markpdf](https://github.com/jo3-l/markpdf), a command-line utility to edit PDF bookmarks using an intuitive indentation-based text format, and of course I sporadically [contribute bugfixes and small features to the YAGPDB codebase](https://github.com/botlabs-gg/yagpdb/commits/master?author=jo3-l).
+Sadly, various real-life commitments mean I no longer have as much time to code as I would like. That said, my most recent project was [markpdf](https://github.com/jo3-l/markpdf), a command-line utility to edit PDF bookmarks using an intuitive indentation-based text format, and I continue to sporadically [contribute bugfixes and small features to the YAGPDB codebase](https://github.com/botlabs-gg/yagpdb/commits/master?author=jo3-l).
 
 ## Past projects
 
@@ -23,11 +23,9 @@ In the past, I've worked on:
 - [**cp-practice**](https://github.com/jo3-l/cp-practice): Solutions to various collections of programming problems, written in C++ and Java. See also [my account on the DMOJ](https://dmoj.ca/user/jo3_l).
 - [**yagpdb-cc**](https://github.com/yagpdb-cc/yagpdb-cc): An extensive collection of custom commands for YAGPDB accessible via a [Docusaurus-powered website](https://yagpdb-cc.github.io).
 
-For a complete list, see my repositories.
-
 ## Some stats
 
-Since everyone numbers:
+Since everyone likes numbers:
 
 <table>
   <tr>
@@ -46,8 +44,6 @@ Since everyone numbers:
 
 <div align="center">
 
-If you would like to contact me, your best bet is likely Discord, where my handle is `jo3_l`.
-
-Alternatively, you can also try email: `jo3 [dot] l [dot] dev [at] outlook.com`.
+If you would like to reach out, my email is `jo3.l.dev [at] outlook.com`; I am also active on Discord as `jo3_l`.
 
 </div>
