@@ -1,8 +1,8 @@
 # About me
 
-Hey there! I'm Joe L., a high school student and computer science enthusiast from Vancouver, Canada.
+Hey there! I'm Joe L., an IB diploma student and incoming CS undergrad @ UWaterloo from Vancouver, Canada.
 
-You probably know me from real life (in which case, hello there 👀) or from the [YAGPDB project](https://yagpdb.xyz), where I'm a contributor and documentation author.
+If you're seeing this, you probably know me in real life (in which case, hello!) or from the [YAGPDB project](https://yagpdb.xyz), where I'm an administrator and code contributor.
 
 Nowadays, I primarily work with Rust and Go on backend projects, but in the past I've also dabbled in Python, TypeScript, Java, and C++, among others.
 
@@ -10,7 +10,7 @@ Occasionally, I [blog on my website](https://jo3-l.github.io); check out my late
 
 ## Current projects
 
-Sadly, various real-life commitments mean I no longer have as much time to code as I would like. That said, my most recent project was [markpdf](https://github.com/jo3-l/markpdf), a command-line utility to edit PDF bookmarks using an intuitive indentation-based text format, and I continue to sporadically [contribute bugfixes and small features to the YAGPDB codebase](https://github.com/botlabs-gg/yagpdb/commits/master?author=jo3-l).
+Sadly, various real-life commitments mean I no longer have as much time to code as I would like. That said, my most recent project was [markpdf](https://github.com/jo3-l/markpdf), a command-line utility to efficiently edit PDF bookmarks, and I continue to sporadically [contribute bugfixes and small features to the YAGPDB codebase](https://github.com/botlabs-gg/yagpdb/commits/master?author=jo3-l).
 
 ## Past projects
 
@@ -44,6 +44,6 @@ Since everyone likes numbers:
 
 <div align="center">
 
-If you would like to reach out, my email is `jo3.l.dev [at] outlook.com`; I am also active on Discord as `jo3_l`.
+If you would like to reach out, my email is `jliu1602 [at] gmail.com`; I am also active on Discord as `jo3_l`.
 
 </div>
