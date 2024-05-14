@@ -1,6 +1,6 @@
 # About me
 
-Hey there! I'm Joe L., an IB diploma student and incoming CS undergrad @ UWaterloo from Vancouver, Canada.
+Hey there! I'm Joe L., an IB diploma student from Vancouver, Canada, and incoming CS undergrad @ UWaterloo.
 
 If you're seeing this, you probably know me in real life (in which case, hello!) or from the [YAGPDB project](https://yagpdb.xyz), where I'm an administrator and code contributor.
 
