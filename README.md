@@ -7,31 +7,26 @@ the [YAGPDB project](https://yagpdb.xyz), where I am an administrator and [open-
 contributor](https://github.com/botlabs-gg/yagpdb/commits?author=jo3-l).
 
 Nowadays, I primarily work with Rust and Go on backend projects, but I also have experience in
-Python, TypeScript, Java, and C++, among other languages and technologies.
-
-On rare strokes of inspiration, I [blog on my website](https://jo3-l.github.io); check out my latest post on [the
-relationship between pressure and chemical equilibrium](https://jo3-l.github.io/posts/pressure-and-equilibrium/).
+Python, TypeScript, Java, and C++, among other technologies.
 
 ## Current projects
 
 My main interest these days lies in static analysis (and, more broadly, the implementation of
-programming languages and supporting tooling.) To this end, I am working on a [language server for
-YAGPDB templates](https://github.com/jo3-l/yag-template-lsp) aiming to provide typical IDE features
-such as live diagnostics, intelligent code completion, and refactoring tools. At present, the
-project features a handwritten, error-tolerant parser that produces a lossless CST with
-[rowan](https://github.com/rust-analyzer/rowan); scope resolution; and a dynamic type checker —
-alongside, of course, a language server built with
-[tower-lsp](https://github.com/ebkalderon/tower-lsp) and an associated VSCode extension.
+programming languages and supporting tooling.) I am currently working on a [language server for YAGPDB
+templates](https://github.com/jo3-l/yag-template-lsp), which implements a
+handwritten, error-resilient parser that produces a lossless CST with
+[rowan](https://github.com/rust-analyzer/rowan); scope resolution; and a dynamic type checker.
 
-In the past, I implemented [multiple language features in YAGPDB's production templating
-engine](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l) and [wrote an
-interpreter for my own toy language, Rocket](https://github.com/jo3-l/liftoff).
+In the past, I [implemented multiple language
+features](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l) in YAGPDB's
+production templating engine and [wrote an interpreter](https://github.com/jo3-l/liftoff) for my own
+toy language, Rocket.
 
 I am also a regular contributor to the YAGPDB project in general, helping to
 [refactor](https://github.com/botlabs-gg/yagpdb/pull/1646)
 [legacy](https://github.com/botlabs-gg/yagpdb/pull/1649)
 [code](https://github.com/botlabs-gg/yagpdb/pull/1218), implement new features and bugfixes, and
-[write user-facing documentation](https://github.com/botlabs-gg/yagpdb-docs-v2).
+[write user documentation](https://github.com/botlabs-gg/yagpdb-docs-v2).
 
 ## Older projects
 
@@ -59,11 +54,6 @@ Previously, I worked on:
 - [**competitive programming**](https://github.com/jo3-l/cp-practice): Solutions to various collections of
   competitive programming problems, written in C++ and Java. See also [my account on the
   DMOJ](https://dmoj.ca/user/jo3_l).
-- [**my own Discord bot, Spectre**](https://github.com/jo3-l/spectre): This project was my first
-  real venture into programming: a general purpose Discord bot featuring a leveling system with
-  dynamic image generation alongside a myriad of other commands, using
-  [PostgreSQL](https://www.postgresql.org/), [Discord.js](https://discord.js.org/#/), and
-  TypeScript.
 
 ## Some stats
 
