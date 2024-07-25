@@ -14,19 +14,13 @@ Python, TypeScript, Java, and C++, among other technologies.
 My main interest these days lies in static analysis (and, more broadly, the implementation of
 programming languages and supporting tooling.) I am currently working on a [language server for YAGPDB
 templates](https://github.com/jo3-l/yag-template-lsp), which implements a
-handwritten, error-resilient parser that produces a lossless CST with
-[rowan](https://github.com/rust-analyzer/rowan); scope resolution; and a dynamic type checker.
+handwritten, error-tolerant parser using a CST and [rowan](https://github.com/rust-analyzer/rowan);
+scope resolution; and a dynamic type checker.
 
 In the past, I [implemented multiple language
 features](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l) in YAGPDB's
 production templating engine and [wrote an interpreter](https://github.com/jo3-l/liftoff) for my own
 toy language, Rocket.
-
-I am also a regular contributor to the YAGPDB project in general, helping to
-[refactor](https://github.com/botlabs-gg/yagpdb/pull/1646)
-[legacy](https://github.com/botlabs-gg/yagpdb/pull/1649)
-[code](https://github.com/botlabs-gg/yagpdb/pull/1218), implement new features and bugfixes, and
-[write user documentation](https://github.com/botlabs-gg/yagpdb-docs-v2).
 
 ## Older projects
 
