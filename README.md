@@ -30,9 +30,9 @@ toy language, Rocket.
   projects](https://github.com/jo3-l/obscenity/network/dependents) with [20k+ weekly downloads on
   npm](https://www.npmjs.com/package/obscenity) and 500k+ downloads total.
 - [**vsHacks**](https://vshacks.tech): In high school, I co-founded vsHacks—a now-annual hackathon
-  organized by my programming club in collaboration with other schools across the Greater Vancouver.
-  I contributed extensively to [the hackathon
-  website](https://github.com/vsHacks/vshacks.github.io) and helped run workshops during the event.
+  organized by my programming club in collaboration with other schools across Greater Vancouver.
+  I contributed extensively to [the hackathon website](https://github.com/vsHacks/vshacks.github.io)
+  and helped run workshops during the event.
 - [**markpdf**](https://github.com/jo3-l/markpdf): A command-line utility to efficiently edit PDF
   bookmarks using a familiar indentation-based format, built in Go.
 - [**yagpdb-cc**](https://github.com/yagpdb-cc/yagpdb-cc): The largest community collection of
