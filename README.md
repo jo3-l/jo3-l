@@ -42,7 +42,7 @@ toy language, Rocket.
   [action-check-yag-tmpl-syntax](https://github.com/jo3-l/action-check-yag-tmpl-syntax)) to aid in
   maintenance.
 - [**competitive programming**](https://github.com/jo3-l/cp-practice): Solutions to various competitive
-- programming problems, written primarily in C++ and Java. See also [my account on the DMOJ](https://dmoj.ca/user/jo3_l).
+  programming problems, written primarily in C++ and Java. See also [my account on the DMOJ](https://dmoj.ca/user/jo3_l).
 
 ## Some stats
 
