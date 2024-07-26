@@ -1,6 +1,6 @@
 # About me
 
-Hey there! I'm Joe L., an IB diploma student from Vancouver, Canada, and incoming CS undergrad @ UWaterloo.
+Hey there! I'm Joe L., an incoming CS undergrad @ UWaterloo. 
 
 If you're reading this introduction, you likely know me in real life (in which case, hello!) or from
 the [YAGPDB project](https://yagpdb.xyz), where I am an administrator and [open-source
@@ -9,49 +9,42 @@ contributor](https://github.com/botlabs-gg/yagpdb/commits?author=jo3-l).
 Nowadays, I primarily work with Rust and Go on backend projects, but I also have experience in
 Python, TypeScript, Java, and C++, among other technologies.
 
-## Current projects
+## Active projects
 
-My main interest these days lies in static analysis (and, more broadly, the implementation of
-programming languages and supporting tooling.) I am currently working on a [language server for YAGPDB
+My main interest these days lies in static analysis, and, more broadly, the implementation of
+programming languages and supporting tooling. I am currently working on a [language server for YAGPDB
 templates](https://github.com/jo3-l/yag-template-lsp), which implements a
 handwritten, error-tolerant parser using a CST and [rowan](https://github.com/rust-analyzer/rowan);
 scope resolution; and a dynamic type checker.
 
-In the past, I [implemented multiple language
+My previous work in this space includes [implementing multiple language
 features](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l) in YAGPDB's
-production templating engine and [wrote an interpreter](https://github.com/jo3-l/liftoff) for my own
+production templating engine and [building an interpreter](https://github.com/jo3-l/liftoff) for my own
 toy language, Rocket.
 
-## Older projects
+## Other projects
 
-Previously, I worked on:
-
-- [**vsHacks**](https://vshacks.tech): An annual hackathon organized by my programming club and
-  others across the Greater Vancouver area — the first of its kind organized by Vancouver high
-  school students, for Vancouver high school students. I contributed extensively to [the hackathon
-  website](https://github.com/vsHacks/vshacks.github.io) and helped run workshops during the event.
 - [**obscenity**](https://github.com/jo3-l/obscenity): A robust profanity detection library for
   Node.js, written in TypeScript. It implements a extensible transformer-based design and is
   thoroughly unit-tested. Used by [hundreds of open-source
   projects](https://github.com/jo3-l/obscenity/network/dependents) with [20k+ weekly downloads on
   npm](https://www.npmjs.com/package/obscenity) and 500k+ downloads total.
+- [**vsHacks**](https://vshacks.tech): In high school, I co-founded vsHacks—a now-annual hackathon
+  organized by my programming club in collaboration with other schools across the Greater Vancouver.
+  I contributed extensively to [the hackathon
+  website](https://github.com/vsHacks/vshacks.github.io) and helped run workshops during the event.
 - [**markpdf**](https://github.com/jo3-l/markpdf): A command-line utility to efficiently edit PDF
-  bookmarks using a familiar indentation-based format.
-- [**liftoff**](https://github.com/jo3-l/liftoff): A parser and interpreter for a toy (yet
-  relatively complete) programming language, written in Python.
+  bookmarks using a familiar indentation-based format, built in Go.
 - [**yagpdb-cc**](https://github.com/yagpdb-cc/yagpdb-cc): The largest community collection of
   custom commands for YAGPDB, accessible through [a Docusaurus-powered
   website](https://yagpdb-cc.github.io). I created and continue to maintain this project, and have
   built various automation in Go ([yagfuncdata](https://github.com/jo3-l/yagfuncdata),
   [action-check-yag-tmpl-syntax](https://github.com/jo3-l/action-check-yag-tmpl-syntax)) to aid in
   maintenance.
-- [**competitive programming**](https://github.com/jo3-l/cp-practice): Solutions to various collections of
-  competitive programming problems, written in C++ and Java. See also [my account on the
-  DMOJ](https://dmoj.ca/user/jo3_l).
+- [**competitive programming**](https://github.com/jo3-l/cp-practice): Solutions to various competitive
+- programming problems, written primarily in C++ and Java. See also [my account on the DMOJ](https://dmoj.ca/user/jo3_l).
 
 ## Some stats
-
-Since everyone likes numbers:
 
 <table>
   <tr>
@@ -64,7 +57,7 @@ Since everyone likes numbers:
   </tr>
 </table>
 
-(Statistics courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).)
+(courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))
 
 ---
 
