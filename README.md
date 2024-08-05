@@ -2,16 +2,16 @@
 
 Hi! I'm Joseph Liu, an incoming CS student at the University of Waterloo.
 
-If you're reading this, you likely know me in real life (in which case, hello!) or from the YAGPDB
-Discord bot, where I am an administrator and [longtime
+If you're reading this, you probably know me in real life (👀) or through my involvement with the
+YAGPDB Discord bot, where I am an administrator and [longtime
 contributor](https://github.com/botlabs-gg/yagpdb/commits?author=jo3-l).
-
-See [my website](https://jo3-l.github.io/about/) for a slightly longer introduction.
 
 ## Current and past projects
 
-Recently, I have been tinkering with Rust in an attempt to build a
-[language server](https://github.com/jo3-l/yag-template-lsp) and some related static analysis tools.
+Recently, I have been tinkering with Rust in an attempt to build a [language
+server](https://github.com/jo3-l/yag-template-lsp) and some related static analysis tools. I have
+also been helping with building the [new documentation
+website](https://github.com/botlabs-gg/yagpdb-docs-v2) for YAGPDB.
 
 Some other interesting projects I've worked on in the past (see my repositories for a full list):
 
@@ -21,9 +21,11 @@ Some other interesting projects I've worked on in the past (see my repositories 
 - a popular [profanity detection package on npm](https://www.npmjs.com/package/obscenity);
 - and [algorithmic puzzles](https://github.com/jo3-l/cp-practice).
 
-If these sound interesting to you as well—or if you'd like to get in touch for any other reason—I'd
-love to talk: please feel free to email me at `jliu1602 [at] gmail.com`. I am also active on Discord
+If any of these align with your interests—or if you'd just like to get in touch—I'm always happy to
+talk: please feel free to email me at `jliu1602 [at] gmail.com`. I am also active on Discord
 (username `jo3_l`.)
+
+A slighter longer version of this introduction is [on my website](https://jo3-l.github.io/about/).
 
 ## Some stats
 
