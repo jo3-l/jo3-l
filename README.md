@@ -10,20 +10,20 @@ contributor](https://github.com/botlabs-gg/yagpdb/commits?author=jo3-l).
 
 Recently, I have been tinkering with Rust in an attempt to build a [language
 server](https://github.com/jo3-l/yag-template-lsp) and some related static analysis tools. I have
-also been helping with building the [new documentation
+also been helping with building a [new documentation
 website](https://github.com/botlabs-gg/yagpdb-docs-v2) for YAGPDB.
 
-Some other interesting projects I've worked on in the past (see my repositories for a full list):
+Some older projects include:
 
 - interpreters for [scripting](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l)
   [languages](https://github.com/jo3-l/liftoff);
 - [PDF editing utilities](https://github.com/jo3-l/markpdf);
 - a popular [profanity detection package on npm](https://www.npmjs.com/package/obscenity);
-- and [algorithmic puzzles](https://github.com/jo3-l/cp-practice).
+- [algorithmic puzzles](https://github.com/jo3-l/cp-practice);
+- and organizing a [local hackathon](https://vshacks.github.io/).
 
-If any of these align with your interests—or if you'd just like to get in touch—I'm always happy to
-talk: please feel free to email me at `jliu1602 [at] gmail.com`. I am also active on Discord
-(username `jo3_l`.)
+If any of these happen to align with your interests—or if you'd just like to get in touch—I'm always
+happy to talk. My email is `jliu1602 [at] gmail.com`; I am also active on Discord as `jo3_l`.
 
 A slighter longer version of this introduction is [on my website](https://jo3-l.github.io/about/).
 
