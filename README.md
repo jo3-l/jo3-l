@@ -25,7 +25,7 @@ Some older projects include:
 If any of these happen to align with your interests—or if you'd just like to get in touch—I'm always
 happy to talk. My email is `jliu1602 [at] gmail.com`; I am also active on Discord as `jo3_l`.
 
-A slighter longer version of this introduction is [on my website](https://jo3-l.github.io/about/).
+A slighter longer version of this introduction is [on my website](https://jo3-l.dev/about/).
 
 ## Some stats
 
