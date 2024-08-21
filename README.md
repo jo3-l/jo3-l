@@ -9,10 +9,8 @@ contributor](https://github.com/botlabs-gg/yagpdb/commits?author=jo3-l).
 ## Current and past projects
 
 Recently, I've been working on a [language server](https://github.com/jo3-l/yag-template-lsp)
-and some related static analysis tools for YAGPDB's templating language in Rust. I've also been helping build
-YAGPDB's [new documentation website](https://github.com/botlabs-gg/yagpdb-docs-v2).
-
-Some older projects include:
+and some related static analysis tools for YAGPDB's templating language in Rust. Some of my older
+projects include:
 
 - interpreters for [scripting](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l)
   [languages](https://github.com/jo3-l/liftoff);
