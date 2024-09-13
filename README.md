@@ -1,6 +1,6 @@
 # About me
 
-Hi! I'm Joseph Liu, an incoming CS student at the University of Waterloo.
+Hi! I'm Joseph Liu, a first-year CS student at the University of Waterloo.
 
 If you're reading this, you probably know me in real life (👀) or through my involvement with the
 YAGPDB Discord bot, where I am an administrator and [longtime
