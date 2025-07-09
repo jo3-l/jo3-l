@@ -20,4 +20,4 @@ Some of my other projects include
 If any of these happen to align with your interests, or if you'd just like to get in touch, I'm
 happy to talk. My email is `jliu1602 [at] gmail.com`; I am also active on Discord as `jo3_l`.
 
-An extended version of this introduction is [on my website](https://jo3-l.dev/about/).
+I occasionally blog [on my website](https://jo3-l.dev/) and am active on the [Lobsters](https://lobste.rs/~jo3_l) programming forum.
