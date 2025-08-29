@@ -1,12 +1,10 @@
 # About me
 
-Hi! I'm Joseph Liu, a first-year CS student at the University of Waterloo.
+Hi! I'm Joseph Liu, a second-year CS student at the University of Waterloo.
 
 ## Current and past work
 
-This summer, I'm interning at TD Bank as a software developer on the Enterprise Innovation team.
-
-Most of my hobbyist work centers around the [YAGPDB project](https://yagpdb.xyz), a large-scale distributed Discord bot for which I am an administrator and open-source contributor. Over the years I have broken many things and fixed a couple in return ([list of highlights](https://jo3-l.dev/about/#contributions-to-yagpdb)); I am currently the [top external contributor](https://github.com/botlabs-gg/yagpdb/graphs/contributors) to YAGPDB. Other than the main project, I have also built a [language server and VS Code extension](https://github.com/jo3-l/yag-template-lsp) for YAGPDB's custom scripting language (among various other tooling.)
+Most of my open-source work centers around the [YAGPDB project](https://yagpdb.xyz), a large-scale distributed Discord bot for which I am an administrator and open-source contributor. Over the years I have broken many things and fixed a couple in return ([list of highlights](https://jo3-l.dev/about/#contributions-to-yagpdb)); I am currently the [top external contributor](https://github.com/botlabs-gg/yagpdb/graphs/contributors) to YAGPDB with ~130 merged changes. Other than the main project, I have also built a [language server and VS Code extension](https://github.com/jo3-l/yag-template-lsp) for YAGPDB's custom scripting language (among various other tooling.)
 
 Some of my other projects include
 
@@ -17,7 +15,10 @@ Some of my other projects include
 - [algorithmic](https://github.com/jo3-l/cp-practice) [puzzles](https://github.com/jo3-l/advent);
 - and organizing a [local hackathon](https://vshacks.github.io/) back when I was in high school.
 
-If any of these happen to relate to your interests, or if you'd just like to get in touch, I'm
-happy to talk. My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
+As for professional experience:
 
-I occasionally blog [on my website](https://jo3-l.dev/) and am active on the [Lobsters](https://lobste.rs/~jo3_l) programming forum.
+- In **Summer 2025**, I interned at TD Bank as a software developer on the Enterprise Innovation team, and prototyped an open banking integration using Plaid.
+
+If any of the above happens to relate to your interests, or if you'd just like to get in touch, I'm happy to talk. My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
+
+I occasionally blog on [my website](https://jo3-l.dev/) and am active on the [Lobsters programming forum](https://lobste.rs/~jo3_l).
