@@ -15,10 +15,10 @@ Some of my other projects include
 - [algorithmic](https://github.com/jo3-l/cp-practice) [puzzles](https://github.com/jo3-l/advent);
 - and organizing a [local hackathon](https://vshacks.github.io/) back when I was in high school.
 
-As for professional experience:
+As for professional experience,
 
-- In **Summer 2025**, I interned at TD Bank as a software developer on the Enterprise Innovation team, and prototyped an open banking integration using Plaid.
+- in Summer 2025, I interned at TD Bank as a software developer on the Enterprise Innovation team, where I prototyped an open banking integration using Plaid.
 
-If any of the above happens to relate to your interests, or if you'd just like to get in touch, I'm happy to talk. My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
+If anything above seems interesting, or if you'd just like to get in touch, I'm happy to talk! My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
 
 I occasionally blog on [my website](https://jo3-l.dev/) and am active on the [Lobsters programming forum](https://lobste.rs/~jo3_l).
