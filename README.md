@@ -1,6 +1,6 @@
 # About me
 
-Hi! I'm Joseph Liu, a second-year CS student at the University of Waterloo.
+Hi! I'm Joseph Liu, a second-year undergrad at the University of Waterloo double majoring in computer science and pure mathematics.
 
 ## Current and past work
 
@@ -8,7 +8,7 @@ Most of my open-source work centers around the [YAGPDB project](https://yagpdb.x
 
 Some of my other projects include
 
-- a popular [profanity detection package for Node.js](https://www.npmjs.com/package/obscenity), used directly in 350+ projects and downloaded 30k+ times weekly on npm;
+- a popular [profanity detection package for Node.js](https://www.npmjs.com/package/obscenity), used directly in 400+ projects and downloaded 100k+ times weekly on npm;
 - interpreters for various [scripting](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l)
   [languages](https://github.com/jo3-l/liftoff);
 - [PDF editing utilities](https://github.com/jo3-l/markpdf);
@@ -18,6 +18,7 @@ Some of my other projects include
 As for professional experience,
 
 - in Summer 2025, I interned at TD Bank as a software developer on the Enterprise Innovation team, where I prototyped an open banking integration using Plaid.
+- in Summer 2026, I'll be in New York City interning at Bloomberg as a software engineer on the core products team.
 
 If anything above seems interesting, or if you'd just like to get in touch, I'm happy to talk! My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
 
