@@ -17,8 +17,8 @@ Some of my other projects include
 
 As for professional experience,
 
-- in Summer 2025, I interned at TD Bank as a software developer on the Enterprise Innovation team, where I prototyped an open banking integration using Plaid.
-- in Summer 2026, I'll be in New York City interning at Bloomberg as a software engineer on the core products team.
+- in Summer 2025, I interned at TD Bank in Toronto as a software developer on the Enterprise Innovation team, where I prototyped an open banking integration using Plaid.
+- in Summer 2026, I'm interning at Bloomberg in NYC as a software engineer on [Bloomberg Vault](https://professional.bloomberg.com/products/compliance/vault/).
 
 If anything above seems interesting, or if you'd just like to get in touch, I'm happy to talk! My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
 
