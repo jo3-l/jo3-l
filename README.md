@@ -8,7 +8,7 @@ Most of my open-source work centers around the [YAGPDB project](https://yagpdb.x
 
 Some of my other projects include
 
-- a popular [profanity detection package for Node.js](https://www.npmjs.com/package/obscenity), used directly in 400+ projects and downloaded 100k+ times weekly on npm;
+- a popular [profanity detection package for Node.js](https://www.npmjs.com/package/obscenity), used directly in 450+ projects and downloaded 250k+ times weekly on npm;
 - interpreters for various [scripting](https://github.com/botlabs-gg/template/commits/master/?author=jo3-l)
   [languages](https://github.com/jo3-l/liftoff);
 - [PDF editing utilities](https://github.com/jo3-l/markpdf);
@@ -18,7 +18,7 @@ Some of my other projects include
 As for professional experience,
 
 - in Summer 2025, I interned at TD Bank in Toronto as a software developer on the Enterprise Innovation team, where I prototyped an open banking integration using Plaid.
-- in Summer 2026, I'm interning at Bloomberg in NYC as a software engineer on [Bloomberg Vault](https://professional.bloomberg.com/products/compliance/vault/).
+- in Summer 2026, I interned at Bloomberg in NYC as a software engineer on [Bloomberg Vault](https://professional.bloomberg.com/products/compliance/vault/), where I designed and shipped a distributed concurrency limiter for a high-volume data export pipeline.
 
 If anything above seems interesting, or if you'd just like to get in touch, I'm happy to talk! My email is `jliu1602 [at] gmail.com`; I am also on Discord as `jo3_l`.
 
