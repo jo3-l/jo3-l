@@ -1,6 +1,6 @@
 # About me
 
-Hi! I'm Joseph Liu, a second-year undergrad at the University of Waterloo double majoring in computer science and pure mathematics.
+Hi! I'm Joseph Liu, a third-year undergrad at the University of Waterloo double majoring in computer science and pure mathematics.
 
 ## Current and past work
 
